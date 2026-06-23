@@ -228,6 +228,21 @@ Actively contributing to collaborative repositories across multiple domains, wit
 
 ---
 
+
+## `$ watch snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/virakshi07/virakshi07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/virakshi07/virakshi07/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/virakshi07/virakshi07/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## `$ cat achievements.md`
 
 <div align="center">
@@ -239,24 +254,6 @@ Actively contributing to collaborative repositories across multiple domains, wit
 | Open Source | First PR on GitHub · June 2026 · Received 10 community comments |
 | Contribution Streak | 116 contributions in the last year · Active since June 2025 |
 | Repositories | 18 public repositories · 12 created in June 2026 |
-
-</div>
-
----
-
-## `$ pip show certifications`
-
-<div align="center">
-
-**NPTEL**
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)
-
-**Cisco**
-![Cisco](https://img.shields.io/badge/Cisco-NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Other Platforms**
-![Coursera](https://img.shields.io/badge/Coursera-Learner-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -290,35 +287,11 @@ Actively contributing to collaborative repositories across multiple domains, wit
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=virakshi07&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## `$ tail -f activity.log`
 
 <div align="center">
 
 [![Virakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=virakshi07&bg_color=0d0d0d&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `$ watch snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/virakshi07/virakshi07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/virakshi07/virakshi07/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/virakshi07/virakshi07/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -356,16 +329,6 @@ current_focus:
     - Open source co-maintainership
     - Hackathon teams
 ```
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=virakshi07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
