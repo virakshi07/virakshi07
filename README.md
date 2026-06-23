@@ -128,82 +128,89 @@ philosophy  : Ship fast, learn faster. Code is craft; make it count.
 
 ## `$ ls -la projects/`
 
-<details>
-<summary><b>🗳️ VoteSmart-AI — AI-Powered Electoral Intelligence Platform</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+![](https://img.shields.io/badge/🏆_ORCHATHON_2025-HACKATHON-FFB300?style=for-the-badge&labelColor=1a1a2e)
 
-> A modern, AI-driven web application that transforms the way citizens — especially first-time voters — learn about and navigate the electoral process.
+### 🏗️ MEP Guard
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | TypeScript · React · AI/ML APIs |
-| **Scale** | Public-facing civic tech platform |
-| **Focus** | First-time voter education & electoral transparency |
-| **Impact** | Bridges the gap between citizens and complex electoral data |
-| **Type** | Original · Public |
-| **Repository** | [virakshi07/VoteSmart-AI](https://github.com/virakshi07/VoteSmart-AI) |
+*Hackathon · BIM/CAD · AI/ML · 2025*
 
-VoteSmart-AI reimagines civic participation by surfacing electoral information in an accessible, intelligent format. The application leverages AI to personalise voter journeys and simplify navigation of political processes that are typically opaque or bureaucratic.
+Reads real Autodesk Revit IFC files, extracts pipes, ducts & cable trays in 3D. Detects all clashes, classifies severity using ASHRAE/NFPA/NBC India rules, and auto-reroutes clashing elements.
 
-</details>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![IFC](https://img.shields.io/badge/IfcOpenShell-FF6B35?style=flat-square&logoColor=white)
 
-<details>
-<summary><b>🔍 DetectX — Computer Vision Detection System</b></summary>
+[![VIEW REPO](https://img.shields.io/badge/▶_VIEW_REPO-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virakshi07/405-Found)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-> A Python-based object detection system powered by computer vision techniques.
+![](https://img.shields.io/badge/🌿_PROMPTWARS-SOLUTION_CHALLENGE-2C5F2D?style=for-the-badge&labelColor=1a1a2e)
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Python · OpenCV · Deep Learning |
-| **Domain** | Computer Vision · Object Detection |
-| **Performance** | Real-time inference pipeline |
-| **Type** | Original · Public |
-| **Repository** | [virakshi07/DetectX](https://github.com/virakshi07/DetectX) |
+### 🌿 EcoStride
 
-DetectX demonstrates applied computer vision engineering — implementing detection pipelines that process visual input with accuracy and speed. Built as a focused technical study in CV fundamentals and practical ML deployment.
+*Full-Stack · AI-Powered · Gamification · 2025*
 
-</details>
+AI-powered carbon footprint tracking, coaching, and gamification. Continuous tracking, predictive forecasting, receipt scanning via computer vision, streaks & leaderboards — the fitness tracker for your environmental impact.
 
-<details>
-<summary><b>🚀 NexaSphere — CI/CD Automated Deployment Pipeline</b></summary>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<br/>
+[![VIEW REPO](https://img.shields.io/badge/▶_VIEW_REPO-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virakshi07)
+[![LIVE DEMO](https://img.shields.io/badge/▶_LIVE_DEMO-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://carbon-footprint-frrwz9yi5-virakshi07s-projects.vercel.app/)
 
-> Contributed a production-grade CI/CD automation feature to the NexaSphere platform.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | GitHub Actions · Shell · Slack Webhooks |
-| **Scale** | +285 lines contributed · 10 PR comments |
-| **Scope** | Production deployment · Rollback workflow · Slack notifications |
-| **Type** | Open Source Contribution |
-| **Repository** | [Ayushh-Sharmaa/NexaSphere](https://github.com/Ayushh-Sharmaa/NexaSphere) |
+![](https://img.shields.io/badge/🚨_HACK2SKILL-SOLUTION_CHALLENGE_2026-8B0000?style=for-the-badge&labelColor=1a1a2e)
 
-Designed and implemented an automated deployment pipeline featuring zero-downtime production workflows, rollback safety mechanisms, and real-time Slack deployment notifications — bringing enterprise-grade DevOps practices to the project.
+### 🚨 CrisisSync
 
-</details>
+*AI Emergency Response · Hospitality · 2026*
 
-<details>
-<summary><b>⚡ 405-Found — Orchackathon 2k26</b></summary>
+Real-time AI-powered emergency coordination for hospitality venues. One guest tap triggers Gemini AI-classified alerts reaching all staff in under 500ms — voice SOS, floor heatmap, staff chat & live Google Maps.
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-> Hackathon submission built for Orchackathon 2k26.
+[![VIEW REPO](https://img.shields.io/badge/▶_VIEW_REPO-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriidevii/crisissync)
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Python |
-| **Context** | Orchackathon 2k26 |
-| **Type** | Forked · Hackathon · Public |
-| **Repository** | [virakshi07/405-Found](https://github.com/virakshi07/405-Found) |
+</td>
+<td width="50%" valign="top">
 
-A collaborative hackathon project built under time pressure — demonstrating the ability to ideate, architect, and ship functional software within competitive constraints.
+![](https://img.shields.io/badge/🗳️_CIVIC_TECH-AI_/_ML-1a1a2e?style=for-the-badge&labelColor=0d0d2b)
 
-</details>
+### 🗳️ VoteSmart AI
 
+*Civic Tech · AI-Powered · 2025*
+
+Transforms how citizens — especially first-time voters — navigate the electoral process. AI chatbot Election Buddy, step-by-step voter guide, interactive checklists, quizzes & a full electoral glossary.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![VIEW REPO](https://img.shields.io/badge/▶_VIEW_REPO-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virakshi07/VoteSmart-AI)
+[![LIVE DEMO](https://img.shields.io/badge/▶_LIVE_DEMO-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://vote-smart-7tdspij4g-virakshi07s-projects.vercel.app)
+
+</td>
+</tr>
+</table>
 ---
 
 ## `$ cat experience.md`
